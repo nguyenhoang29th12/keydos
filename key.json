@@ -1,0 +1,11 @@
+[
+    {
+        "value": "key1",
+        "expiration": "2025-01-10T23:59:59Z"
+    },
+    {
+        "value": "admin-key",
+        "expiration": "never",
+        "role": "admin"
+    }
+]
